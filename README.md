@@ -1,2 +1,2 @@
-# website
-A personal website showcasing my projects.
+# my website
+a space identifying me and my projects.
