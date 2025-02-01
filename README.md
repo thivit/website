@@ -1,3 +1,2 @@
-# my website
-a space identifying me and my projects.
-[go there](https://thivit.github.io/website)
+# It's just my personal website.
+[Take me there! :parachute:](https://thivit.github.io/website)
